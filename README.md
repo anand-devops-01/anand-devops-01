@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Anand Janke
 
-<!--
-**anand-devops-01/anand-devops-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring DevOps Engineer
 
-Here are some ideas to get you started:
+- 🌱 Learning AWS, Docker, Kubernetes & CI/CD
+- 💻 Skilled in Linux, GitHub, HTML, CSS, JavaScript
+- 🚀 Interested in Cloud & Automation
+- 📫 Email: anandjanke2112@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- Linux
+- AWS
+- Docker
+- Kubernetes
+- Git & GitHub
+- Jenkins
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📌 Projects
+
+### Foreign Currency Exchange Application
+- Full Stack Web Application
+- Built using HTML, CSS, JavaScript, PHP & MySQL
+- Currency conversion and transaction management system
+
+---
+
+## 📈 Currently Learning
+
+- AWS Cloud
+- Docker & Kubernetes
+- CI/CD Pipeline
+- Linux Administration
+
+---
+
+## 📫 Connect With Me
+
+- Email: anandjanke2112@gmail.com
+- GitHub: https://github.com/
